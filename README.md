@@ -2,7 +2,7 @@ This repository presents a collection of files to create a question answering we
 
 1st open git bash and git clone the repository
 
-2nd, still in the terminal, download the necessary libraries using the command "pip install -r requirements"
+2nd, still in the terminal, download the necessary libraries using the command "pip install -r requirements.txt"
 
 3rd, enter the folder where the repository is and execute the command "streamlit run app.py"
 
