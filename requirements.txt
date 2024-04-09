@@ -1,7 +1,7 @@
 pillow==10.2.0
 setuptools==69.0.3
 streamlit==1.31.0
-farm-haystack==1.24.0
+farm-haystack[preprocessing]==1.24.0
 haystack==0.42
 huggingface-hub==0.20.3
 sentence-transformers==2.5.1
