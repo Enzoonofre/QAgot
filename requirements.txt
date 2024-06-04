@@ -1,10 +1,11 @@
-pillow==10.2.0
-setuptools==69.0.3
-streamlit==1.31.0
-farm-haystack[preprocessing]==1.24.0
-haystack==0.42
-huggingface-hub==0.20.3
-sentence-transformers==2.5.1
-transformers==4.36.2
-datasets==2.17.1
+# main
+# streamlit # commented to avoid miss instalation
+
+# HuggingFace
+datasets==2.18.0
+# Question Answering
+haystack-ai==2.0.1
+accelerate==0.29.2
+sentence-transformers==2.7.0
+# Extra
 mmh3==4.1.0
